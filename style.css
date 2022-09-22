@@ -37,6 +37,7 @@ h2 {
   .form-control .form-element label{
     font-size: large;
     text-align: left;
+    line-height:1;
   }
 }
 
